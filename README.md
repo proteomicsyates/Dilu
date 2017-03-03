@@ -1,4 +1,4 @@
-# Dilu - a tool for Metabolomics Data Analysis
+# Dilu - a tool for metabolomics data analysis
 
 ![alt tag](http://sequest.scripps.edu/ygao/dilu.png)
 
